@@ -76,5 +76,4 @@ const makeRequest = (callback) => request({
 
 });
 
-
 exports.website = makeRequest;
